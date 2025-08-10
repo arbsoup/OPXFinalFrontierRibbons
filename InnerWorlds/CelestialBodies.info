@@ -3,7 +3,7 @@ Neb
 	type = moon
 	FinalFrontier
 	{
-		ribbon path = OPXFinalFrontier/InnerWorlds
+		ribbon path = OPXFinalFrontierRibbons/InnerWorlds
 		ribbon group = Neb
 		base prestige = 11001
 	}
@@ -14,7 +14,7 @@ Hafnia
 	type = moon
 	FinalFrontier
 	{
-		ribbon path = OPXFinalFrontier/InnerWorlds
+		ribbon path = OPXFinalFrontierRibbons/InnerWorlds
 		ribbon group = Hafnia
 		base prestige = 11002
 	}
@@ -25,7 +25,7 @@ Quazen
 	type = moon
 	FinalFrontier
 	{
-		ribbon path = OPXFinalFrontier/InnerWorlds
+		ribbon path = OPXFinalFrontierRibbons/InnerWorlds
 		ribbon group = Quazen
 		base prestige = 11003
 	}
@@ -36,7 +36,7 @@ Krov
 	type = moon
 	FinalFrontier
 	{
-		ribbon path = OPXFinalFrontier/InnerWorlds
+		ribbon path = OPXFinalFrontierRibbons/InnerWorlds
 		ribbon group = Krov
 		base prestige = 11004
 	}
@@ -47,7 +47,7 @@ Loushine
 	type = moon
 	FinalFrontier
 	{
-		ribbon path = OPXFinalFrontier/InnerWorlds
+		ribbon path = OPXFinalFrontierRibbons/InnerWorlds
 		ribbon group = Loushine
 		base prestige = 11005
 	}
@@ -58,7 +58,7 @@ Everhart
 	type = moon
 	FinalFrontier
 	{
-		ribbon path = OPXFinalFrontier/InnerWorlds
+		ribbon path = OPXFinalFrontierRibbons/InnerWorlds
 		ribbon group = Everhart
 		base prestige = 11006
 	}
@@ -69,7 +69,7 @@ Phaekav
 	type = moon
 	FinalFrontier
 	{
-		ribbon path = OPXFinalFrontier/InnerWorlds
+		ribbon path = OPXFinalFrontierRibbons/InnerWorlds
 		ribbon group = Phaekav
 		base prestige = 11007
 	}
@@ -80,7 +80,7 @@ Kret
 	type = moon
 	FinalFrontier
 	{
-		ribbon path = OPXFinalFrontier/InnerWorlds
+		ribbon path = OPXFinalFrontierRibbons/InnerWorlds
 		ribbon group = Kret
 		base prestige = 11008
 	}
@@ -91,7 +91,7 @@ Kortens
 	type = moon
 	FinalFrontier
 	{
-		ribbon path = OPXFinalFrontier/InnerWorlds
+		ribbon path = OPXFinalFrontierRibbons/InnerWorlds
 		ribbon group = Kortens
 		base prestige = 11009
 	}
@@ -102,7 +102,7 @@ Lui
 	type = moon
 	FinalFrontier
 	{
-		ribbon path = OPXFinalFrontier/InnerWorlds
+		ribbon path = OPXFinalFrontierRibbons/InnerWorlds
 		ribbon group = Lui
 		base prestige = 11010
 	}
@@ -113,7 +113,7 @@ Anton
 	type = moon
 	FinalFrontier
 	{
-		ribbon path = OPXFinalFrontier/InnerWorlds
+		ribbon path = OPXFinalFrontierRibbons/InnerWorlds
 		ribbon group = Anton
 		base prestige = 11011
 	}
@@ -124,7 +124,7 @@ Graybar
 	type = moon
 	FinalFrontier
 	{
-		ribbon path = OPXFinalFrontier/InnerWorlds
+		ribbon path = OPXFinalFrontierRibbons/InnerWorlds
 		ribbon group = Graybar
 		base prestige = 11012
 	}
@@ -135,7 +135,7 @@ Selbig
 	type = moon
 	FinalFrontier
 	{
-		ribbon path = OPXFinalFrontier/InnerWorlds
+		ribbon path = OPXFinalFrontierRibbons/InnerWorlds
 		ribbon group = Selbig
 		base prestige = 11013
 	}
@@ -146,7 +146,7 @@ Vedra
 	type = moon
 	FinalFrontier
 	{
-		ribbon path = OPXFinalFrontier/InnerWorlds
+		ribbon path = OPXFinalFrontierRibbons/InnerWorlds
 		ribbon group = Vedra
 		base prestige = 11014
 	}
@@ -157,7 +157,7 @@ Doppler
 	type = moon
 	FinalFrontier
 	{
-		ribbon path = OPXFinalFrontier/InnerWorlds
+		ribbon path = OPXFinalFrontierRibbons/InnerWorlds
 		ribbon group = Doppler
 		base prestige = 11015
 	}
@@ -168,7 +168,7 @@ Dyva
 	type = moon
 	FinalFrontier
 	{
-		ribbon path = OPXFinalFrontier/InnerWorlds
+		ribbon path = OPXFinalFrontierRibbons/InnerWorlds
 		ribbon group = Dyva
 		base prestige = 11016
 	}
